@@ -1,0 +1,1 @@
+import{r as e,j as s}from"./index-64PUoUmh.js";const o=e.memo(({icon:t,label:r})=>s.jsxs("div",{className:"shrink-0 text-sm",children:[s.jsx("i",{className:"icons text-gray-600",children:t})," ",r]}));export{o as default};

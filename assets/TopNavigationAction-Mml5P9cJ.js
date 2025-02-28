@@ -1,0 +1,1 @@
+import{j as r}from"./index-64PUoUmh.js";const i=({tabActive:t,onClick:e,id:n,label:o})=>r.jsx("button",{onClick:e,className:`shrink-0 py-1.5 px-2.5 text-sm font-medium rounded-full flex-1 text-center ${t===n?"bg-blue-400 text-white":""}`,children:o});export{i as default};
